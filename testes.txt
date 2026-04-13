@@ -1,0 +1,11 @@
+TESTE 1:
+GET /posts
+Resultado: lista de posts retornada com sucesso
+
+TESTE 2:
+POST /posts
+Resultado: criação de novo post simulada
+
+TESTE 3:
+GET /users
+Resultado: lista de usuários retornada
